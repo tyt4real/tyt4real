@@ -13,4 +13,4 @@ Here is what I've made:
   * VIVIT-r the telegram monitoring bot: [here](https://github.com/tyt4real/VIVIT-R)
   * and some smaller shit not really worth mentioning
 
-If you wanna talk then hit me up on XMPP: tyt4real@lain.rocks, on my IRC or by email: tyt4real@protonmail.com
+If you wanna talk then hit me up on XMPP: tyt4real@lain.rocks, on my IRC @ irc.lain.rocks or by email: tyt4real@protonmail.com
